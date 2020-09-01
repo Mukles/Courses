@@ -1,0 +1,78 @@
+const Courses = [
+  {
+    'id': 1,
+    'title': 'javascript full course',
+    'slug': 'javascript full course',
+    'catagory': 'javascript'
+  }{
+    'id': 2,
+    'title': 'javascript full course',
+    'slug': 'javascript full course',
+    'catagory': 'javascript'
+  }{
+    'id': 3,
+    'title': 'javascript full course',
+    'slug': 'javascript full course',
+    'catagory': 'javascript'
+  }{
+    'id': 4,
+    'title': 'javascript full course',
+    'slug': 'javascript full course',
+    'catagory': 'javascript'
+  }{
+    'id': 5,
+    'title': 'javascript full course',
+    'slug': 'javascript full course',
+    'catagory': 'javascript'
+  }{
+    'id': 6,
+    'title': 'javascript full course',
+    'slug': 'javascript full course',
+    'catagory': 'javascript'
+  }{
+    'id': 7,
+    'title': 'javascript full course',
+    'slug': 'javascript full course',
+    'catagory': 'javascript'
+  }{
+    'id': 8,
+    'title': 'javascript full course',
+    'slug': 'javascript full course',
+    'catagory': 'javascript'
+  }{
+    'id': 9,
+    'title': 'javascript full course',
+    'slug': 'javascript full course',
+    'catagory': 'javascript'
+  }{
+    'id': 10,
+    'title': 'javascript full course',
+    'slug': 'javascript full course',
+    'catagory': 'javascript'
+  }{
+    'id': 1,
+    'title': 'javascript full course',
+    'slug': 'javascript full course',
+    'catagory': 'javascript'
+  }{
+    'id': 1,
+    'title': 'javascript full course',
+    'slug': 'javascript full course',
+    'catagory': 'javascript'
+  }{
+    'id': 1,
+    'title': 'javascript full course',
+    'slug': 'javascript full course',
+    'catagory': 'javascript'
+  }{
+    'id': 1,
+    'title': 'javascript full course',
+    'slug': 'javascript full course',
+    'catagory': 'javascript'
+  }{
+    'id': 1,
+    'title': 'javascript full course',
+    'slug': 'javascript full course',
+    'catagory': 'javascript'
+  }
+]

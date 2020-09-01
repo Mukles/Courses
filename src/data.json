@@ -1,0 +1,75 @@
+{
+  'products' = [
+    {
+      'id': 'dress1',
+      'image': './images/dress1.jpg'
+      'description': 'TFNC Plus wrap front pleated midi dress in gold',
+      'availableSizes': ['XL, 'XXL', 'M'],
+      'price': '103.00
+    },
+
+    {
+      'id': 'dress2',
+      'image': './images/dress1.jpg',
+      'description': 'ASOS DESIGN mini swing dress in dark green floral print ASOS DESIGN mini swing dress in dark green floral print',
+      'availableSizes': ['XL, 'XXL', 'M'],
+      'price': 43.98
+    },
+
+    {
+      'id': 'dress3',
+      'image': './images/dress1.jpg',
+      'description': 'Reclaimed Vintage inspired wrap dress with embroidery in organza',
+      'availableSizes': ['XL, 'XXL', 'M'],
+      'price': 234.34
+    },
+
+    {
+      'id': 'dress5',
+      'image': './images/dress1.jpg',
+      'description': 'Textured Tie Waist Maxi Dress, in Regular and Petite, Created for Macy's',
+      'availableSizes': ['XL, 'XXL', 'M'],
+      'price': 34.94
+    },
+
+    {
+      'id': 'dress4',
+      'image': './images/dress1.jpg',
+      'description': 'Textured Tie Waist Maxi Dress, in Regular and Petite, Created for Macy's',
+      'availableSizes': ['XL, 'XXL', 'M'],
+      'price': 35.703
+    },
+
+    {
+      'id': 'dress6',
+      'image': './images/dress1.jpg',
+      'description': 'Solid Poplin Midi Dress, Created for Macy's',
+      'availableSizes': ['XL, 'XXL', 'M'],
+      'price': 34.348
+    },
+
+    {
+      'id': 'dress7',
+      'image': './images/dress1.jpg',
+      'description': 'Mesh-Sleeve Sheath Dress',
+      'availableSizes': ['XL, 'XXL', 'M'],
+      'price': 74.34
+    },
+
+    {
+      'id': 'dress8',
+      'image': './images/dress1.jpg',
+      'description': 'Bow-Neck Midi Dress',
+      'availableSizes': ['XL, 'XXL', 'M'],
+      'price': 74.34
+    },
+
+    {
+      'id': 'dress9',
+      'image': './images/dress1.jpg',
+      'description': 'Printed Tie-Front Dress, Created for Macy's',
+      'availableSizes': ['XL, 'XXL', 'M'],
+      'price': 74.34
+    }
+  ]
+}
